@@ -1,7 +1,6 @@
 # Bootstrap Image Gallery
 
-## Demo
-[Bootstrap Image Gallery Demo](http://blueimp.github.com/Bootstrap-Image-Gallery/)
+
 
 ## Description
 Bootstrap Image Gallery is an extension to the [Modal](http://twitter.github.com/bootstrap/javascript.html#modal) dialog of Twitter's [Bootstrap](http://twitter.github.com/bootstrap/) toolkit, to ease navigation between a set of gallery images.  
