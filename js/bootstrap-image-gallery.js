@@ -53,7 +53,7 @@
         // Offset of image height to viewport height:
         offsetHeight: 200,
         // Set to true to display images as canvas elements:
-        canvas: false,
+        canvas: true,
         // Shows the next image after the given time in ms (0 = disabled):
         slideshow: 0,
         // Defines the image division for previous/next clicks:
